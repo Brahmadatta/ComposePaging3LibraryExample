@@ -1,8 +1,8 @@
 **Implementing Paging3 Library with Punk Beer API :**
 
-**Initial Loading Screen :** 
+**Initial Loading Screen :**
 
-![Initial_load.png](Initial_load.png)
+<img alt="Initial_load.png" height="150" src="Initial_load.png" width="150"/>
 
 **Displaying the API Data**
 ![Paging3_screen.png](Paging3_screen.png)
