@@ -2,7 +2,7 @@
 
 **Initial Loading Screen :**
 
-<img alt="Initial_load.png" height="150" src="Initial_load.png" width="150"/>
+<img alt="Initial_load.png" height="500" src="Initial_load.png" width="500"/>
 
 **Displaying the API Data**
 ![Paging3_screen.png](Paging3_screen.png)
