@@ -1,4 +1,4 @@
-**Implementing Paging3 Library with Punk Beer API :**
+**Implementing Paging3 Library with Punk Beer API using JetPack Compose:**
 
 **Initial Loading Screen :**
 
